@@ -35,7 +35,7 @@
 
     <preference name="Fullscreen" value="true" />
 
-    <cocoon:plugin name="org.apache.cordova.splashscreen"/>
+    <cocoon:plugin name="cordova-plugin-splashscreen"/>
 
     <cocoon:plugin name="com.ludei.webviewplus.ios"/>
     <cocoon:plugin name="com.ludei.webviewplus.android"/>
